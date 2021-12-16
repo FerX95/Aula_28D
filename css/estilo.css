@@ -1,0 +1,30 @@
+/* Configurações globais do site */
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.box{
+    text-align: center;
+    width: 250px;
+    line-height: 250px;
+}
+
+/* Configura as cores da div */
+.c_blue{
+    background-color: rgb(86, 86, 194);
+    color: white;
+}
+
+/* Configura o tamanho do texto */
+.t_pequeno{
+    font-size: 16px;
+}
+
+.t_medio{
+    font-size: 20px;
+}
+
+.t_grande{
+    font-size: 30px;
+}
