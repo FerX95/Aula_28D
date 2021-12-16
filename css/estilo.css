@@ -15,7 +15,10 @@ body{
     background-color: rgb(86, 86, 194);
     color: white;
 }
-
+.c_grey{
+    background-color: rgba(128, 128, 128, 0.431);
+    color: white
+}
 /* Configura o tamanho do texto */
 .t_pequeno{
     font-size: 16px;
