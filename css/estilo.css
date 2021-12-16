@@ -28,3 +28,8 @@ body{
 .t_grande{
     font-size: 30px;
 }
+
+.c-grad{
+    background: linear-gradient(to right,#5b0b8a, #7100b3);
+    color: white;
+}
