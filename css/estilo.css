@@ -25,6 +25,11 @@ body{
     background-color: rgb(196, 98, 98);
     color: black;
 }
+ 
+.c_palegreen{
+    background-color: rgb(129, 248, 129);
+    color: white;
+}
 
 /* Configura o tamanho do texto */
 .t_pequeno{
