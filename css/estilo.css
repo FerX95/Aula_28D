@@ -4,7 +4,12 @@ body{
     margin: 0px;
 }
 
+.main{
+    display: flex;
+}
+
 .box{
+    margin: 5px;
     text-align: center;
     width: 250px;
     line-height: 250px;
