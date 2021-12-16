@@ -4,7 +4,12 @@ body{
     margin: 0px;
 }
 
+.main{
+    display: flex;
+}
+
 .box{
+    margin: 10px;
     text-align: center;
     width: 250px;
     line-height: 250px;
@@ -14,6 +19,11 @@ body{
 .c_blue{
     background-color: rgb(86, 86, 194);
     color: white;
+}
+
+.c_red{
+    background-color: rgb(196, 98, 98);
+    color: black;
 }
 
 /* Configura o tamanho do texto */
