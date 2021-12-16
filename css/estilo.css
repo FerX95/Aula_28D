@@ -16,6 +16,11 @@ body{
     color: white;
 }
 
+.c_red{
+    background-color: red;
+    color: white;
+}
+
 /* Configura o tamanho do texto */
 .t_pequeno{
     font-size: 16px;
