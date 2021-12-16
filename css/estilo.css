@@ -8,11 +8,20 @@ body{
     text-align: center;
     width: 250px;
     line-height: 250px;
+    margin: 5px;
+    padding: 2px;
 }
 
+.main{
+    display: flex;
+}
 /* Configura as cores da div */
 .c_blue{
     background-color: rgb(86, 86, 194);
+    color: white;
+}
+.c_orangered{
+    background-color: rgb(197, 59, 9);
     color: white;
 }
 
