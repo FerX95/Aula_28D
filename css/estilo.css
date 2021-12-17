@@ -31,6 +31,11 @@ body{
     color: white;
 }
 
+.c_green{
+    background-color: rgb(0, 66, 0);
+    color: white;
+}
+
 /* Configura o tamanho do texto */
 .t_pequeno{
     font-size: 16px;
